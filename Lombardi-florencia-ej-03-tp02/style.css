@@ -1,0 +1,34 @@
+#cafegratis {
+    background-color: #1f3f34;
+}
+
+.card-1 {
+    background-color: #ffdc92;
+}
+
+.card-2 {
+    background-color: #ebbc53;
+}
+
+.card-3 {
+    background-color: #50442c;
+}
+
+.btn-light:hover {
+    background-color: #144f5f;
+    color: white;
+}
+
+#menu {
+    background-image: url(img/img-mod/fondo-menu.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#nav-barra {
+    background: #144f5f;
+    background: -webkit-linear-gradient(to right, #6eb080, #144f5f);
+    background: linear-gradient(to right, #6eb080, #144f5f);
+}
